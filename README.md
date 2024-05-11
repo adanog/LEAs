@@ -7,7 +7,7 @@ Unprocessed image data are  available within the Zenodo OpenAIRE repository, acc
 https://zenodo.org/records/11053868, https://zenodo.org/records/11062009, https://zenodo.org/records/11066680, https://zenodo.org/records/11067068 
 
 Data sets associated with Fig. 4, as well as Supplementary Figures S4 and S5.
-Data sets associated with scripts: 211027_LEAsSTATs.R, 211118_LEAmeanSTATs.R, 221208_analisis numero y brillo.R, OtsuThrsh.ijm
+Data sets associated with scripts: 211027_LEAsSTATs.R, 211118_LEAmeanSTATs.R, 221208_number_and_brightness_analysis.R, OtsuThrsh.ijm
 
 2. Raster Image Correlation Spectroscopy and Brightness Measurements of AtLEA proteins
 https://zenodo.org/records/11075037
