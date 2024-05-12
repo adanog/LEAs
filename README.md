@@ -13,7 +13,7 @@ Data sets associated with scripts: 211027_LEAsSTATs.R, 211118_LEAmeanSTATs.R, 22
 https://zenodo.org/records/11075037
 
 Data sets associated with Fig. 5, and Supplementary Figure S6.
-Data sets associated with scripts: Análisis RICS.xlsx, OIB_to_TIFF.ijm, Stat Data.txt, Violin Data.txt, Plotting and Stat Tests.R.
+Data sets associated with scripts: OIB_to_TIFF.ijm, Stat Data.txt, Violin Data.txt, Plotting and Stat Tests.R, RICS analysis.xlsx
 
 
 
